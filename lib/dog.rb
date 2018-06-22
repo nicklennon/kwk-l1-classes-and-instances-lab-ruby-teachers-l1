@@ -1,6 +1,6 @@
 # dog.rb
 
-class Dog(name)
+class Dog
   
   attr_reader :name
   
